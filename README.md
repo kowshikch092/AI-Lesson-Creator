@@ -10,6 +10,12 @@ AI Lesson Creator is a Streamlit application that researches a topic and generat
 - Accuracy and pedagogy review stages
 - Markdown and PDF lesson export
 
+## Architecture
+
+The workflow validates the lesson request, analyzes objectives, performs parallel research, aggregates the findings, generates the lesson, runs factual and instructional-quality checks, and exports the approved result.
+
+![AI Lesson Creator architecture](architecture.png)
+
 ## Setup
 
 1. Create and activate a Python virtual environment.
