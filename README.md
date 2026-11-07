@@ -16,6 +16,15 @@ The workflow validates the lesson request, analyzes objectives, performs paralle
 
 ![AI Lesson Creator architecture](architecture.png)
 
+## Sample outputs
+
+Generated example PDFs are available in the [`outputs/`](outputs/) folder:
+
+- [Final lesson](outputs/final_lesson.pdf)
+- [Accuracy report](outputs/accuracy_report.pdf)
+- [Instructional quality report](outputs/instructional_quality_report.pdf)
+- [Research references](outputs/research_references.pdf)
+
 ## Setup
 
 1. Create and activate a Python virtual environment.
